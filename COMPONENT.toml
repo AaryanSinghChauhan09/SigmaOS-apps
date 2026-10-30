@@ -1,0 +1,7 @@
+name = "SigmaOS-apps"
+schema_version = 1
+responsibility = "curated default applications, integrations, and application profiles"
+integration_repository = "https://github.com/AaryanSinghChauhan09/SigmaOS"
+canonical_branch = "main"
+status = "scaffold"
+license = "GPL-3.0-or-later"
