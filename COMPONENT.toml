@@ -1,7 +1,8 @@
+[component]
 name = "SigmaOS-apps"
-schema_version = 1
-responsibility = "curated default applications, integrations, and application profiles"
-integration_repository = "https://github.com/AaryanSinghChauhan09/SigmaOS"
-canonical_branch = "main"
-status = "scaffold"
-license = "GPL-3.0-or-later"
+version = "0.1.0"
+maturity = "alpha"
+tier = 6
+owner = "SigmaOS Team"
+purpose = "Default curated application metadata and suite profiles"
+dependencies = ["SigmaOS-desktop"]
